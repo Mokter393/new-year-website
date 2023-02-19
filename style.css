@@ -167,3 +167,52 @@
     font-size: 20px;
     font-weight: 500;
 }
+
+.footer-container{
+    display: flex;
+    gap: 250px;
+    align-items: center;
+    background-color: #151414;
+    width: 100%;
+    height: 577px;
+}
+
+.footer-contact{
+    margin-left: 230px;
+}
+
+.footer-subscribe{
+    margin-right: 230px;
+}
+
+.footer-contact-title{
+    color: #fff;
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 16px;
+}
+
+.footer-contact-description{
+    color: #fff;
+    font-size: 16px;
+    margin-bottom: 32px;
+}
+
+.footer-subscribe-title{
+    color: #fff;
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 32px;
+}
+
+.footer-subscribe-email {
+    width: 325px;
+    height: 64px;
+    color: #fff;
+    background-color: transparent;
+    border: 1px solid #fff;
+    padding: 2px 15px;
+    border-radius: 5px;
+    font-size: 18px;
+    margin-bottom: 16px;
+}
